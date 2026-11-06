@@ -1,0 +1,16 @@
+# Environnement virtuel Python
+.venv/
+# Fichiers compilés par Python
+__pycache__/
+*.py[cod]
+# Base de données locale (chacun a la sienne)
+db.sqlite3
+db.sqlite3-journal
+# Secrets et réglages locaux : jamais dans Git
+.env
+# Fichiers statiques collectés (épisodes suivants)
+staticfiles/
+# Fichiers des éditeurs et du système
+.vscode/
+.idea/
+.DS_Store
