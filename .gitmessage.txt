@@ -1,0 +1,5 @@
+type: sujet court (50 caractères au plus)
+
+Pourquoi ce changement, en quelques lignes.
+
+Closes #numéro
